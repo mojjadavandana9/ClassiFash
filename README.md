@@ -1,4 +1,6 @@
 ClassiFash – Refining Style through AI Innovation 👗🤖
+
+
 ClassiFash is a deep learning-based image classification project that aims to identify and categorize fashion items into 10 distinct categories using a Convolutional Neural Network (CNN). With a focus on improving generalization and minimizing overfitting, dropout layers were strategically applied, leading to a performance boost in model accuracy.
 
 📌 Project Highlights
